@@ -24,5 +24,5 @@
 
 This project is under the license [MIT](./LICENSE).
 
-Made with love by Thiago Marinho 👋🏽 [Get in Touch!](https://www.linkedin.com/in/luciano-lima-ferreira-71846495/)
+Made with love by Luciano Lima Fer 👋🏽 [Get in Touch!](https://www.linkedin.com/in/luciano-lima-ferreira-71846495/)
 
